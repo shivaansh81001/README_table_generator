@@ -30,7 +30,7 @@ Few variables need to be replaced with your details before executing the program
 <br>
 <h1>Execution</h1>
 After modifying the variables, you are ready to run the program.<br>
-The program should print <b>Successful Update</b> if everything has been executed successfully.
+The program should print <b>"Successful Update"</b> if everything has been executed successfully.
 Otherwise, the program will print error message with corresponding error code.
 <br>
 <h3>Error Codes</h3>

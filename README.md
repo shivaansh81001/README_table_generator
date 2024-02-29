@@ -16,6 +16,7 @@ More information can be found on this <a href="https://www.geeksforgeeks.org/how
 <h1>Getting Started</h1>
 Few variables need to be replaced with your details before executing the program.
 <br>
+<img src="assets/variables.png" ></img>
 <ul>
   <li>USERNAME- replace with your github username </li>
   <li>REPO- replace with name of your repository </li>

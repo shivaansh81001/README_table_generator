@@ -26,7 +26,8 @@ Few variables need to be replaced with your details before executing the program
 
 </ul>
  I highly recommend after generating your token, you check if its working or not by running the following command:-<br>
-  <b>curl -H "Authorization: token {TOKEN}" https://api.github.com/repos/{USERNAME}/{REPO}/contents/{PATH_FOLDER}</b> <br>
+  <li><b>curl -H "Authorization: token {TOKEN}" https://api.github.com/repos/{USERNAME}/{REPO}/contents/{PATH_FOLDER}</b></li> 
+  <br>
   It should return a json file listing the contents.
 <br>
 <h1>Execution</h1>

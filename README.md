@@ -15,6 +15,7 @@ More information can be found on this <a href="https://www.geeksforgeeks.org/how
 <br>
 <h1>Getting Started</h1>
 Few variables need to be replaced with your details before executing the program.
+<br>
 <ul>
   <li>USERNAME: replace with your github username </li>
   <li>REPO: replace with name of your repository </li>
@@ -22,8 +23,8 @@ Few variables need to be replaced with your details before executing the program
   <li>PATH_README: *need not be changed unless the name of the readme file has been modified  </li>
   <li>TOKEN: replace with your github token. How to get your personal token? check this <a href="https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">link</a> </li>
 
-  I highly recommend after generating your token, you check if its working or not by running the following command:-<br>
+</ul>
+ I highly recommend after generating your token, you check if its working or not by running the following command:-<br>
   <b>curl -H "Authorization: token {TOKEN}" https://api.github.com/repos/{USERNAME}/{REPO}/contents/{PATH_FOLDER}</b> <br>
   It should return a json file listing the contents.
-</ul>
 

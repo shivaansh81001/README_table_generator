@@ -25,7 +25,8 @@ Few variables need to be replaced with your details before executing the program
   <li>TOKEN- replace with your github token. How to get your personal token? check this <a href="https://docs.github.com/en/enterprise-server@3.9/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens">link</a> </li>
 
 </ul>
- I highly recommend after generating your token, you check if its working or not by running the following command:-<br>
+ I highly recommend after generating your token, you check if its working or not by running the following command:-
+ <br>
   <li><b>curl -H "Authorization: token {TOKEN}" https://api.github.com/repos/{USERNAME}/{REPO}/contents/{PATH_FOLDER}</b></li> 
   <br>
   It should return a json file listing the contents.

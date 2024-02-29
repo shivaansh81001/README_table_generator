@@ -1,9 +1,9 @@
 # README_table_generator
 
 <h3>Libraries required :</h3>
-Requests (needs install)
-json
-base64
+Requests (needs install)<br>
+json<br>
+base64<br>
 <br>
 <h4>How to install 'requests':</h4>
 <ul>
